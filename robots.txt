@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+
+Sitemap: https://bwogamingnews.github.io/post/sitemap.xml
